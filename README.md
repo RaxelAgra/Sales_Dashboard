@@ -7,3 +7,5 @@ The various parameters displayed are as follows:
 3. A pie chart showing total sales based on products in proportions 
 4. A horizontal bar chart outlining the amount of sales achieved by each of the ten (10) stores
 5. A stacked column chart displaying sales by store and product
+
+SLicers of Sales Rep, Months, Stores and Products are available to do further in depth reviews when document is opened in Power Bi.
